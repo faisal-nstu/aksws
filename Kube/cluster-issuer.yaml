@@ -5,7 +5,7 @@ metadata:
 spec:
   acme:
     server: https://acme-staging-v02.api.letsencrypt.org/directory
-    email: sufian@brainstation-23.com
+    email: faisal.amin@bs-23.com
     privateKeySecretRef:
       name: letsencrypt-staging
     solvers:
